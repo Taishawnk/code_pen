@@ -4,8 +4,5 @@
     justify-content: center;
     border: 1px solid black;
     color:white;
-    background-color: #141619;
-}
-
-
-
+    background: rgb(97,92,92);
+    background: linear-gradient(139deg, rgba(97,92,92,1) 2%, rgba(0,0,0,1) 57%);}
