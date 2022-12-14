@@ -1,0 +1,43 @@
+.nav-view > .right-side{
+    width: 50%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+
+}
+
+.right-side  span{
+    font-weight: bolder;
+    
+}
+
+.right-side button{
+    height: 4em;
+    width: 10em;
+    margin: 10px 2px ;
+    font-size: large;
+    color: white;
+    background-color: #36383F;
+    border-radius: 10px;
+    
+}
+.right-side > .buttons-wrapper > .create i{
+    margin: 0px;
+    padding: 2px;
+    width: 4px;
+    font-size: 23px;
+    color: #4AC977;
+}
+
+
+.right-side > .buttons-wrapper i{
+    margin: 5px  ;
+    font-size: 40px ;
+    padding: 30px;
+    color: gray;    
+}
+
+
+.right-side > .buttons-wrapper :nth-child(1){
+    width: 15em;
+}

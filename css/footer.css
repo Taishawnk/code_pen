@@ -1,0 +1,27 @@
+.footer{
+    width: 1902px;
+    height: 200px;
+    background-color: black;
+}
+
+ .footer-cont{
+    display: flex;
+    justify-content: flex-start;
+    width: 1902px;
+    height: 96px;
+    border: 0.05 solid #58595B;
+}
+
+.footer > .footer-cont div{
+width: 25vw;
+background-color: #36383F;
+border: 1.5px solid #58595B;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.footer > .footer-cont span{
+    font-size: 30px;
+    font-weight: 900;
+}

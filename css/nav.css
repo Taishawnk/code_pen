@@ -1,0 +1,60 @@
+.nav-view{
+    background-color: black;
+    display: flex;
+    justify-content: space-evenly; 
+}
+
+.nav-view > .left-side{
+    width: 50%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center; 
+}
+
+.nav-view > .left-side> .nav-img{
+    margin: 0px 60px 0px 30px;
+    display: flex;
+}
+
+.nav-view > .left-side > .explore-wrapper{
+    height: 100%;    
+}
+
+.nav-view > .left-side > .explore-wrapper > .headin h3{
+    color: #E1CA73;
+    margin-bottom: 0px;
+}
+
+.nav-view > .left-side > .explore-wrapper > .explore-links{
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav-view > .left-side > .explore-wrapper > .explore-links a{
+    margin: 0px 40px 0px 0px;
+    font-size: larger;
+    color: white;
+    text-decoration: none;
+    font-weight: 900;
+    font-size: 0.6cm;
+}
+
+.nav-view > .left-side >  .explore-wrapper> .explore-links >.spark h3{
+    font-size: 0.5cm;
+    margin-right: 20px;
+    color: gray;
+}
+.nav-view > .left-side >  .explore-wrapper> .explore-links >.spark i{
+    color: #C6C6C6;
+    margin-left: 10px;
+    font-size: 0.4cm;
+}
+
+.nav-view > .left-side > .nav-img img{
+    height: 40px;
+}
+
+
+

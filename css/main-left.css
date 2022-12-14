@@ -1,0 +1,43 @@
+.main-content > .left-side{
+    
+    width: 55%;
+    margin-top: 5em;
+ 
+}
+
+.main-content > .left-side h3{
+
+    font-family: 'Nunito', sans-serif;
+
+    color: #C7C7CB;   
+    font-size: 45px; 
+    margin-left: 60px;
+}
+
+
+.main-content > .left-side > .para1 strong{
+    color: #FFFFFF;
+    font-weight: bolder;
+}
+
+.main-content > .left-side > .para2 > .buttons{
+    display: flex; 
+    justify-content: center;
+}
+
+.main-content > .left-side >  .para2 > .buttons > .button1{
+    font-size: 40px;
+    width: 12em;
+    height: 2em;
+    margin-right: 15px;
+    background-color: #4BCE79;
+    border: none;
+    border-radius: 8px;
+}
+.main-content > .left-side > .para2 >.buttons > .button2{
+    font-size: 40px;
+    width: 8em;
+    color: white;
+    background-color: black;
+    border-radius: 8px;
+}

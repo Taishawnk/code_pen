@@ -1,0 +1,25 @@
+.main-content > .rightside img{
+    height: 700px;
+
+}
+
+.main-content > .rightside{
+   
+margin-top: 5em;
+color: white;
+display: grid;
+margin-left: 8em;
+}
+
+.main-content > .rightside > .img-text{
+    margin-left: 20px;
+    margin-bottom: 4px;
+}
+.main-content > .rightside > .img-text {
+    font-size: 25px;
+}
+
+.main-content > .rightside > .img-text > .blue-span{
+    color: #6BD6EB;
+
+}

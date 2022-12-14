@@ -1,0 +1,11 @@
+.main-content{
+ 
+    display: flex;
+    justify-content: center;
+    border: 1px solid black;
+    color:white;
+    background-color: #141619;
+}
+
+
+
