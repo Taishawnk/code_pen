@@ -1,5 +1,7 @@
 .main-content > .rightside img{
     height: 700px;
+    box-shadow: -15px -1px 20px currentColor;
+    color: black;
 
 }
 

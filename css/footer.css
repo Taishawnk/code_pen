@@ -13,12 +13,12 @@
 }
 
 .footer > .footer-cont div{
-width: 25vw;
-background-color: #36383F;
-border: 1.5px solid #58595B;
-display: flex;
-justify-content: center;
-align-items: center;
+    width: 25vw;
+    background-color: #36383F;
+    border: 1.5px solid #58595B;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .footer > .footer-cont span{
